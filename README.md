@@ -1,6 +1,6 @@
 # CropQuant-Air
 
-Jiawei Chen<sup>1,2</sup>, Ji Zhou<sup>1,3*</sup>
+Jiawei Chen<sup>1,2</sup>, Jie Zhou<sup>1,2</sup>, Ji Zhou<sup>1,3*</sup>
 
 <sup>1</sup>State Key Laboratory of Crop Genetics & Germplasm Enhancement, Plant Phenomics Research Centre, Academy for Advanced Interdisciplinary Studies, Nanjing Agricultural University, Nanjing 210095, China;
 
