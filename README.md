@@ -4,7 +4,8 @@ Jiawei Chen<sup>1</sup>, Jie Zhou<sup>1</sup>, Ji Zhou<sup>1,2*</sup>
 
 <sup>1</sup>State Key Laboratory of Crop Genetics & Germplasm Enhancement, Plant Phenomics Research Centre, Academy for Advanced Interdisciplinary Studies, Nanjing Agricultural University, Nanjing 210095, China;
 
-<sup>2</sup>Cambridge Crop Research, National Institute of Agricultural Botany (NIAB), Cambridge CB3 0LE, UK
+<sup>2</sup>Cambridge Crop Research, National Institute of Agricultural Botany (NIAB), Cambridge CB3 0LE, UK.
+
 •	ChenJiawei@njau.edu.cn
 •	JieZhou@njau.edu.cn
 •	Ji.Zhou@njau.edu.cn; Ji.Zhou@NIAB.com
@@ -14,8 +15,7 @@ Jiawei Chen<sup>1</sup>, Jie Zhou<sup>1</sup>, Ji Zhou<sup>1,2*</sup>
 In this release, we uploaded the latest version of CropQuant-Air, a graphical user interface (GUI, in .exe format) based analytic software that integrate deep learning algorithms and traditional image processing algorithms, directly extract and output yield- and performance-related phenotypic traits, and added the function of batch processing a series of images collected by low-cost drones.
 
 ## Relevant publications 
-<sup>CropQuant-Air: an AI-powered system to enable phenotypic analysis of yield- and performance-related traits using wheat canopy imagery collected by low-cost drones</sup>
-<sup>DOI: 10.3389/fpls.2023.1219983</sup>
+CropQuant-Air: an AI-powered system to enable phenotypic analysis of yield- and performance-related traits using wheat canopy imagery collected by low-cost drones (DOI: 10.3389/fpls.2023.1219983)
 
 ## Install Python, Anaconda and Libraries
 If you wish to run CropQuant-Air from the code, you will need to set up Python on your system. 
