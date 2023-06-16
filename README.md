@@ -15,7 +15,9 @@ Jiawei Chen<sup>1</sup>, Jie Zhou<sup>1</sup>, Ji Zhou<sup>1,2*</sup>
 In this release, we uploaded the latest version of CropQuant-Air, a graphical user interface (GUI, in .exe format) based analytic software that integrate deep learning algorithms and traditional image processing algorithms, directly extract and output yield- and performance-related phenotypic traits, and added the function of batch processing a series of images collected by low-cost drones.
 
 ## Relevant publications 
-CropQuant-Air: an AI-powered system to enable phenotypic analysis of yield- and performance-related traits using wheat canopy imagery collected by low-cost drones (DOI: 10.3389/fpls.2023.1219983)
+•	CropQuant-Air: an AI-powered system to enable phenotypic analysis of yield- and performance-related traits using wheat canopy imagery collected by low-cost drones (DOI: 10.3389/fpls.2023.1219983)
+•	AirMeasurer: open-source software to quantify static and dynamic traits derived from multiseason aerial phenotyping to empower genetic mapping studies in rice (DOI: 10.1111/nph.18314)
+
 
 ## Install Python, Anaconda and Libraries
 If you wish to run CropQuant-Air from the code, you will need to set up Python on your system. 
