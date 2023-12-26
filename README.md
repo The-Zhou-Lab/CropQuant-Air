@@ -1,12 +1,11 @@
 # CropQuant-Air
 
-Jiawei Chen<sup>1</sup>, Jie Zhou<sup>1</sup>, Ji Zhou<sup>1,2*</sup>
+Jie Zhou<sup>1</sup>, Jiawei Chen<sup>1</sup>, Ji Zhou<sup>1,2*</sup>
 
 <sup>1</sup>State Key Laboratory of Crop Genetics & Germplasm Enhancement, Plant Phenomics Research Centre, Academy for Advanced Interdisciplinary Studies, Nanjing Agricultural University, Nanjing 210095, China;
 
 <sup>2</sup>Cambridge Crop Research, National Institute of Agricultural Botany (NIAB), Cambridge CB3 0LE, UK.
 
-•	ChenJiawei@njau.edu.cn
 •	JieZhou@njau.edu.cn
 •	Ji.Zhou@njau.edu.cn; Ji.Zhou@NIAB.com
 
